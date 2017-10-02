@@ -1,0 +1,9 @@
+
+# required environment settings for MVP controller
+PATH=$PATH:/sbin
+export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/usr/lib64
+export MVP_HOME=$HOME/mvp/src/mvpcontroller
+export MVP_CONFIG_HOME=$MVP_HOME/config
+export MVP_TIMELINE_HOME=$MVP_HOME/timelines
+export MVP_PERSISTENCE_HOME=$MVP_HOME/persistence
+

@@ -1,0 +1,7 @@
+alias cl="clear;ls -lh"
+alias cla="clear;ls -la"
+alias v="cd ..;cl"
+alias b="cd -;cl"
+alias h="cd ~;cl"
+alias x="exit"
+alias relog="source ~/.bashrc;cl"
